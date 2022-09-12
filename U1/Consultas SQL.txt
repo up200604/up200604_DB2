@@ -1,2 +1,3 @@
 Select *
-from employees;
+from employees
+where id_employee = "102";
